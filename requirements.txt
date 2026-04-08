@@ -1,0 +1,5 @@
+streamlit
+pandas
+google-cloud-storage
+st-gsheets-connection
+extra-streamlit-components
